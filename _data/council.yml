@@ -86,13 +86,13 @@ project_directors:
     - "Leila Agil"
 
 psc:
-  chair: "<em>Vacant</em>"
+  chair: "Sebastian Dot"
   board_reps:
-    - "Edith Fang"
-    - "<em>Vacant</em>"
+    - "Katie Buchel"
   at_large:
-    - "Arnav Patil"
-    - "Rivera Wijaya"
+    - "Ishita Jain"
+    - "Yawen Zhang"
+    - "Alex Klaus"
 
 discipline_club_chairs:
   chemical: "<em>Vacant</em>"
