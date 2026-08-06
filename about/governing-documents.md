@@ -4,13 +4,8 @@ layout: page
 ---
 
 The EngSoc bylaws regulate how EngSoc functions. They can only be changed by a resolution of the Board of Directors, and any change to the Constitution must be approved at an Annual General Meeting in which any full-time or part-time undergraduate engineering student is able to vote.
-- [Bylaw 1 - The Constitution](https://github.com/skule/bylaws/blob/master/Bylaw%201.pdf)
-- [Bylaw 2 - The Project Directors and Associated Entities Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%202.pdf)
-- [Bylaw 3 - The Elections Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%203.pdf)
-- [Bylaw 4 - The Officers Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%204.pdf)
-- [Bylaw 5 - The Commercial Operations Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%205.pdf)
-- [Bylaw 6 - The Search and Review Committee](https://github.com/skule/bylaws/blob/master/Bylaw%206.pdf)
-- [Bylaw 7 - The Discipline Clubs and Class Representatives Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%207.pdf)
+
+[Bylaws Website](https://skule.github.io/bylaws/#0)
 
 ## Policies
 
