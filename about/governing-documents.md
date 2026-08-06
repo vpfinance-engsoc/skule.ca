@@ -10,6 +10,7 @@ The EngSoc bylaws regulate how EngSoc functions. They can only be changed by a r
 ## Policies
 
 The policies are a set of best practices for EngSoc. Engineering Society policies can be changed by a resolution of the Board of Directors or by a resolution of a meeting of the Officers.
+
 - [Accessibility Policy](https://drive.google.com/file/d/1NBE9OM5YWWnhQfcE_s9wIuO8LECV3vDO)
 - [Affiliated Clubs](https://drive.google.com/file/d/131fr_DDU6sE7p2DKIQtcqVucrNmtL5Ne)
 - [Awarding Society Awards](/about/governing-documents/Policy-Awarding-Society-Awards-Feb2024.pdf)
