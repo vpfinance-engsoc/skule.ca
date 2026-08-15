@@ -58,7 +58,7 @@ The application will be discussed during the monthly Finance Committee meeting t
 
 ## How are applications reviewed?
 
-**Total Funding Available for 2T5-2T6: $50,000**
+**Total Funding Available for 2T6-2T7: $50,000**
 
 The Finance Committee evaluates applications based on:
 -	Impact on the Skule™ community;
