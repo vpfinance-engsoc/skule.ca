@@ -91,7 +91,7 @@ When you receive funding from SEF, you are required to <b>publicly acknowledge S
 ## 2T6 - 2T7 Timeline
 
 ### Summer 2026
-Applications open!
+Applications closed!
 
 **Deadline: June 29, 2026**
 
