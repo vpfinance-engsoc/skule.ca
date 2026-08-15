@@ -4,17 +4,13 @@ layout: page
 ---
 
 The EngSoc bylaws regulate how EngSoc functions. They can only be changed by a resolution of the Board of Directors, and any change to the Constitution must be approved at an Annual General Meeting in which any full-time or part-time undergraduate engineering student is able to vote.
-- [Bylaw 1 - The Constitution](https://github.com/skule/bylaws/blob/master/Bylaw%201.pdf)
-- [Bylaw 2 - The Project Directors and Associated Entities Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%202.pdf)
-- [Bylaw 3 - The Elections Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%203.pdf)
-- [Bylaw 4 - The Officers Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%204.pdf)
-- [Bylaw 5 - The Commercial Operations Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%205.pdf)
-- [Bylaw 6 - The Search and Review Committee](https://github.com/skule/bylaws/blob/master/Bylaw%206.pdf)
-- [Bylaw 7 - The Discipline Clubs and Class Representatives Bylaw](https://github.com/skule/bylaws/blob/master/Bylaw%207.pdf)
+
+[Bylaws Website](https://skule.github.io/bylaws/#0)
 
 ## Policies
 
 The policies are a set of best practices for EngSoc. Engineering Society policies can be changed by a resolution of the Board of Directors or by a resolution of a meeting of the Officers.
+
 - [Accessibility Policy](https://drive.google.com/file/d/1NBE9OM5YWWnhQfcE_s9wIuO8LECV3vDO)
 - [Affiliated Clubs](https://drive.google.com/file/d/131fr_DDU6sE7p2DKIQtcqVucrNmtL5Ne)
 - [Awarding Society Awards](/about/governing-documents/Policy-Awarding-Society-Awards-Feb2024.pdf)
