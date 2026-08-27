@@ -25,7 +25,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > 
 > The Skule™ Agenda Editor organizes the production of the Skule™ Agenda. This year long planner is available for all U of T Engineering Students. One is created every year and released at the beginning of the fall semester. The Agenda Editor is also last year's F!rosh Handbook Editor.
 >
-> <<a class="button is-small vp-comms" href="mailto:agenda@skule.ca">Email </a>
+> <a class="button is-small vp-comms" href="mailto:agenda@skule.ca">Email </a>
 
 > <b class="president-text">Alumni Outreach Director</b>
 > {{ site.data.council.project_directors.alumni_outreach }} <small class="president-text">Overseen by the President</small>
