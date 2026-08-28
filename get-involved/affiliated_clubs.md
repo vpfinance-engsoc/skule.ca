@@ -94,10 +94,3 @@ document.addEventListener("DOMContentLoaded", function() {
   color: white;
 }
 </style>
-
-## Club Affiliation Applications
-Please use the following forms to apply for club affiliation.
-
-- [full status](https://docs.google.com/forms/d/1DxQRG9fqOD_AyE3W2vngrIYvjuuDXqm1k1bvynd5WHU/viewform?edit_requested=true)
-- [trial to full](https://docs.google.com/forms/d/1O469nyfZg8PKlYDz9IjK7jorAbsLZnhtKvcVj0_Jc3g/viewform?edit_requested=true)
-- [trial](https://docs.google.com/forms/d/1xM4IPFWRCqDGdqzNTK5e_cHymni7fGX8bzFU8zu66Sc/viewform?edit_requested=true)
